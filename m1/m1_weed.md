@@ -2,8 +2,7 @@
 <p>The University of Vermont where Larry Weed worked in the 1970s.</p>
 <p>&nbsp;</p>
 <p>Larry Weed was one of the unsung heroes of modern medicine. He was also a <a title="Link" href="https://www.collinsdictionary.com/dictionary/english/character" target="_blank" rel="noopener">character</a> (definition 9).&nbsp;</p>
-<p><a class="" title="Link" href="https://youtu.be/0w3k92NprFs" target="_blank" rel="noopener">Lecture excerpt about Larry Weed</a></p>
-<p>&nbsp;</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7sabbx-sTic?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p><a title="Link" href="https://americanarchive.org/catalog/cpb-aacip_507-416sx64w01" target="_blank" rel="noopener">Larry Weed on the McNeil/Leher News Hour</a></p>
 <p>If you have a VPN that will generate an American IP address, you can watch this news story about Larry Weed that aired on 20 September 1994 on an American news show. This was what introduced me to Larry Weed, days before I started my graduate studies in informatics, and shaped my whole view of the discipline. (The interview starts at 38:10.)</p>
 <p>Below is the transcript of the relevant portion of the news episode:</p>
