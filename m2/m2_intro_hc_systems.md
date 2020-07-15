@@ -1,0 +1,12 @@
+<h2>Health care systems &ndash; the good, the bad and the ugly&nbsp;&nbsp;</h2>
+<p><a class="" title="Link" href="https://www.youtube.com/watch?v=h1PfrmCGFnk" target="_blank" rel="noopener">The Good, The Bad, The Ugly</a></p>
+<p>Just as I introduced the course to you with David Bowie's "Rebel, Rebel", Dr. Kathleen gray, who created the bulk of this module, introduces healthcare systems with the theme song to the Western movie "The Good the Bad and the Ugly." Before we get into Dr. Gray's materials, I am going to have you start off with a USA documentary "Sick Around the World" which explores healthcare from five different countries with similar economic and political systems (unfortunately Australia is not one of the countries).&nbsp;</p>
+<p>Systems, of course, consists of components these include physicians, surgeons, nurses, pharmacists, therapists (e.g., respiratory, physio, occupational, mental health), AND patients, organizations such as hospitals, pharmaceutical companies, device manufacturers, regulators, and payers...to mention a few.&nbsp;</p>
+<p>One of the first things I would like you to do is get familiar with various healthcare experiences---experiences of clinicians and experiences of patients to start with. I've started a list of resources that you might consider looking at <a title="Resources for Virtually Experiencing Healthcare" href="https://canvas.lms.unimelb.edu.au/courses/110024/pages/resources-for-virtually-experiencing-healthcare" data-api-endpoint="https://canvas.lms.unimelb.edu.au/api/v1/courses/110024/pages/resources-for-virtually-experiencing-healthcare" data-api-returntype="Page">here</a>. Our one required book (not really a textbook) The Digital Doctor, gives a good starting point to get familiar with healthcare experiences that touch on biomedical informatics.</p>
+<p>&nbsp;</p>
+<p>On a lighter side, and a purely fictional side, here is a compilation of clips from the American medical comedy Scrubs, despite its absurd humor, often considered to be one of the more realistic portrayals of healthcare experiences from clinicians perspectives.</p>
+<p>&nbsp;</p>
+<p><a class="" title="Link" href="https://youtu.be/SKK55a6C_Ps" target="_blank" rel="noopener">Scrubs clips</a></p>
+<p>&nbsp;</p>
+<p>A more serious view of healthcare workers is shown here by the WHO</p>
+<p><a class="" title="Link" href="https://youtu.be/TeP0aafYvH0" target="_blank" rel="noopener">WHO Healthcare workers</a></p>
