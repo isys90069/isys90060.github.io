@@ -1,1 +1,1 @@
-- [Module 1](m1.md)
+- [Module 1](m1/m1.md)
